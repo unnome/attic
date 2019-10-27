@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/unnome.github.io/attica/static/css/main.b100e6da.chunk.css",
+    "main.js": "/unnome.github.io/attica/static/js/main.172c7a97.chunk.js",
+    "main.js.map": "/unnome.github.io/attica/static/js/main.172c7a97.chunk.js.map",
+    "runtime-main.js": "/unnome.github.io/attica/static/js/runtime-main.2715f3d2.js",
+    "runtime-main.js.map": "/unnome.github.io/attica/static/js/runtime-main.2715f3d2.js.map",
+    "static/js/2.3681252e.chunk.js": "/unnome.github.io/attica/static/js/2.3681252e.chunk.js",
+    "static/js/2.3681252e.chunk.js.map": "/unnome.github.io/attica/static/js/2.3681252e.chunk.js.map",
+    "index.html": "/unnome.github.io/attica/index.html",
+    "precache-manifest.51f200360c15d028dd2fb468119c22f5.js": "/unnome.github.io/attica/precache-manifest.51f200360c15d028dd2fb468119c22f5.js",
+    "service-worker.js": "/unnome.github.io/attica/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/unnome.github.io/attica/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/unnome.github.io/attica/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2715f3d2.js",
+    "static/js/2.3681252e.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.172c7a97.chunk.js"
+  ]
+}
